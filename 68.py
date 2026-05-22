@@ -1,0 +1,15 @@
+word = "Funwith"
+
+print("      " + " ".join(word[:1]))
+print("     " + " ".join(word[:2]))
+print("    " + " ".join(word[:3]))
+print("   " + " ".join(word[:4]))
+print("  " + " ".join(word[:5]))
+print(" " + " ".join(word[:6]))
+print(" ".join(word[:7]))
+print(" " + " ".join(word[:6]))
+print("  " + " ".join(word[:5]))
+print("   " + " ".join(word[:4]))
+print("    " + " ".join(word[:3]))
+print("     " + " ".join(word[:2]))
+print("      " + " ".join(word[:1]))
