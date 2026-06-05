@@ -1,0 +1,7 @@
+f1=open("in5.txt","r")
+s1=f1.readline()
+print(s1)
+list1=s1.split(",")
+print(list1)
+print(list1[0])
+print(s1)
